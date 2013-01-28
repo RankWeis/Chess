@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="263" key="DIALOG_WIDTH"/>
+		<item value="174" key="DIALOG_Y_ORIGIN"/>
+		<item value="589" key="DIALOG_X_ORIGIN"/>
+		<item value="395" key="DIALOG_HEIGHT"/>
+		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="&#x09;&#x09;Location[] locs = SimpleParser.parse( &quot;e2 e4&quot; );" key="selection"/>
+		<list key="findhistory">
+			<item value="&#x09;&#x09;Location[] locs = SimpleParser.parse( &quot;e2 e4&quot; );"/>
+			<item value="&#x09;String&#x09;format&#x09;= &quot;[A-Ha-h][1-8] [A-Ha-h][1-8]&quot;;"/>
+			<item value="package pieces;"/>
+			<item value="filter"/>
+			<item value="&#x09;@Before"/>
+			<item value="Type."/>
+			<item value="&#x09;&#x09;"/>
+			<item value="bishop"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+			<item value="rook"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="pieces.Piece.Location"/>
+<fullyQualifiedTypeName name="movement.DiagonalMovement"/>
+<fullyQualifiedTypeName name="movement.BishopMovement"/>
+<fullyQualifiedTypeName name="movement.KnightMovement"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="pieces.Piece.Color"/>
+<fullyQualifiedTypeName name="movement.MovementBase"/>
+<fullyQualifiedTypeName name="pieces.Piece.Type"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="pieces.Type"/>
+<fullyQualifiedTypeName name="pieces.Color"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="pieces.Piece"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="parsers.SimpleParser"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="board.Location"/>
+</qualifiedTypeNameHistroy>
