@@ -77,6 +77,10 @@ public class Game {
 			}
 		}
 	}
+	
+	public Board getBoard() {
+		return board;
+	}
 
 	public void setupGame() {
 		board = new Board( );
